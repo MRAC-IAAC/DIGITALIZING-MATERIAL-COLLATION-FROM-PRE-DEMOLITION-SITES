@@ -6,13 +6,20 @@ The word collation is the collection and ordering of materials.This project defi
 ### WHAT IS OUR VISION?
 Repurposing material in the construction sector is not something new. The churches were built using the materials of the roman forum and colosseum etc. In this case what we do in this project is embedding technology to a method that is being used for centuries.
 ![4-4](https://user-images.githubusercontent.com/57528373/77206881-59d84200-6af8-11ea-9e4c-cb1e156788ab.jpg)
+The diagram below shows the data of materials that is being wasted in construction sites. The point that it has different values for each material as minium and maximum amount shows the lack of documentation and need for a more reliable documentation with digitazing.
 ![4-5](https://user-images.githubusercontent.com/57528373/77206888-5cd33280-6af8-11ea-8f7d-df42e164bc4e.jpg)
+Concrete, masonry, timber and steel are 4 materials that we focus on this project due to their high percentage on construction material waste. There are different methods for “What after?” process for each of them but in any case it is important for each to go to reusing instead of sending them to the landfills or downcycling.
 ![4-6](https://user-images.githubusercontent.com/57528373/77206889-5e045f80-6af8-11ea-9a5c-a426f86ef533.jpg)
+### WHAT DO WE DO?
 ![4-8](https://user-images.githubusercontent.com/57528373/77206893-5fce2300-6af8-11ea-831c-43de630c862d.jpg)
 ![4-9](https://user-images.githubusercontent.com/57528373/77206898-60ff5000-6af8-11ea-868d-bc4221ccd358.jpg)
+### HOW DOES IT WORK?
 ![4-11](https://user-images.githubusercontent.com/57528373/77206902-62307d00-6af8-11ea-9bd3-3b1b71c580df.jpg)
+### WHAT VALUE DO WE PROVIDE?
 ![4-13](https://user-images.githubusercontent.com/57528373/77206905-63fa4080-6af8-11ea-9c41-7337138ad895.jpg)
+### HARDWARE
 ![4-14](https://user-images.githubusercontent.com/57528373/77206911-65c40400-6af8-11ea-8701-71ec6f27e8ed.jpg)
+### BUILDING INSPECTION
 ![4-16](https://user-images.githubusercontent.com/57528373/77206912-66f53100-6af8-11ea-84f7-2c040788414d.jpg)
 ![4-19](https://user-images.githubusercontent.com/57528373/77206915-68bef480-6af8-11ea-8a65-3af96be24e32.jpg)
 ![4-20](https://user-images.githubusercontent.com/57528373/77206918-69f02180-6af8-11ea-9dea-56995a8bdc60.jpg)
