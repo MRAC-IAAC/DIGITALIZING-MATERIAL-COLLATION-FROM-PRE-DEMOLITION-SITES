@@ -21,6 +21,7 @@ Concrete, masonry, timber and steel are 4 materials that we focus on this projec
 ![4-14](https://user-images.githubusercontent.com/57528373/77206911-65c40400-6af8-11ea-8701-71ec6f27e8ed.jpg)
 ### BUILDING INSPECTION
 ![4-16](https://user-images.githubusercontent.com/57528373/77206912-66f53100-6af8-11ea-84f7-2c040788414d.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/byZlO2EPLM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### SORTING
 ![Group_4_Digitalizing Material_Correction-30](https://user-images.githubusercontent.com/57528373/77207331-6741fc00-6af9-11ea-8f18-e5db2ab1b952.jpg)
 Image classifier systems must start with a set of input images from which to learn the features used for classification. For each of our categories, we supply both a collection of close-up and un-angled images to give information about texture, and in-situ images to describe the shapes the forms we expect the material to take (e.g. walls, columns, beams, etc).
