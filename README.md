@@ -49,3 +49,5 @@ The next step was to implement the image retrieval from the 3D environment. Each
 ![4-38](https://user-images.githubusercontent.com/57528373/77206975-87bd8680-6af8-11ea-929e-6b68a57f8455.jpg)
 ![4-42](https://user-images.githubusercontent.com/57528373/77206985-89874a00-6af8-11ea-89d0-6039f2d783bc.jpg)
 
+Digitalizing Material Collation from Pre-Demolition Sites is a project of IaaC, Institute for Advanced Architecture of Catalonia developed in the Masters of Robotics and Advanced Construction in 2019/20 by: Students: Anna Batallé, Irem Yagmur Cebeci, Matthew Gordon, Roberto Vargas Faculty: Angel Munoz, Soroush Garivani
+
