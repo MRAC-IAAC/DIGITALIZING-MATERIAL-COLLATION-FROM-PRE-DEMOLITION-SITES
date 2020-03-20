@@ -5,3 +5,26 @@ The word collation is the collection and ordering of materials.This project defi
 
 ### WHAT IS OUR VISION?
 Repurposing material in the construction sector is not something new. The churches were built using the materials of the roman forum and colosseum etc. In this case what we do in this project is embedding technology to a method that is being used for centuries.
+![4-4](https://user-images.githubusercontent.com/57528373/77206881-59d84200-6af8-11ea-9e4c-cb1e156788ab.jpg)
+![4-5](https://user-images.githubusercontent.com/57528373/77206888-5cd33280-6af8-11ea-8f7d-df42e164bc4e.jpg)
+![4-6](https://user-images.githubusercontent.com/57528373/77206889-5e045f80-6af8-11ea-9a5c-a426f86ef533.jpg)
+![4-8](https://user-images.githubusercontent.com/57528373/77206893-5fce2300-6af8-11ea-831c-43de630c862d.jpg)
+![4-9](https://user-images.githubusercontent.com/57528373/77206898-60ff5000-6af8-11ea-868d-bc4221ccd358.jpg)
+![4-11](https://user-images.githubusercontent.com/57528373/77206902-62307d00-6af8-11ea-9bd3-3b1b71c580df.jpg)
+![4-13](https://user-images.githubusercontent.com/57528373/77206905-63fa4080-6af8-11ea-9c41-7337138ad895.jpg)
+![4-14](https://user-images.githubusercontent.com/57528373/77206911-65c40400-6af8-11ea-8701-71ec6f27e8ed.jpg)
+![4-16](https://user-images.githubusercontent.com/57528373/77206912-66f53100-6af8-11ea-84f7-2c040788414d.jpg)
+![4-19](https://user-images.githubusercontent.com/57528373/77206915-68bef480-6af8-11ea-8a65-3af96be24e32.jpg)
+![4-20](https://user-images.githubusercontent.com/57528373/77206918-69f02180-6af8-11ea-9dea-56995a8bdc60.jpg)
+![4-21](https://user-images.githubusercontent.com/57528373/77206920-6bb9e500-6af8-11ea-88bb-284c7f447123.jpg)
+![4-23](https://user-images.githubusercontent.com/57528373/77206924-6fe60280-6af8-11ea-8998-52f98e9b79bf.jpg)
+![4-28](https://user-images.githubusercontent.com/57528373/77206930-72e0f300-6af8-11ea-9ab5-b5808e7d179a.jpg)
+![4-29](https://user-images.githubusercontent.com/57528373/77206935-74aab680-6af8-11ea-98bc-ba957929a9ec.jpg)
+![4-30](https://user-images.githubusercontent.com/57528373/77206939-77a5a700-6af8-11ea-866f-b95b5a307c62.jpg)
+![4-32](https://user-images.githubusercontent.com/57528373/77206944-7aa09780-6af8-11ea-89ce-f108c6dbf0ef.jpg)
+![4-33](https://user-images.githubusercontent.com/57528373/77206948-7d02f180-6af8-11ea-8aa7-20e952b29e49.jpg)
+![4-34](https://user-images.githubusercontent.com/57528373/77206959-81c7a580-6af8-11ea-80b8-dac462356e35.jpg)
+![4-37](https://user-images.githubusercontent.com/57528373/77206969-85f3c300-6af8-11ea-93cb-d3dd5689cc07.jpg)
+![4-38](https://user-images.githubusercontent.com/57528373/77206975-87bd8680-6af8-11ea-929e-6b68a57f8455.jpg)
+![4-42](https://user-images.githubusercontent.com/57528373/77206985-89874a00-6af8-11ea-89d0-6039f2d783bc.jpg)
+
