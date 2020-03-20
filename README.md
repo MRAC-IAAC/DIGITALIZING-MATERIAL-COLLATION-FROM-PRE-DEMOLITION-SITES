@@ -41,8 +41,8 @@ The next images show our experiments using the high quality images from the dron
 ![4-32](https://user-images.githubusercontent.com/57528373/77206944-7aa09780-6af8-11ea-89ce-f108c6dbf0ef.jpg)
 ![4-33](https://user-images.githubusercontent.com/57528373/77206948-7d02f180-6af8-11ea-8aa7-20e952b29e49.jpg)
 ![4-34](https://user-images.githubusercontent.com/57528373/77206959-81c7a580-6af8-11ea-80b8-dac462356e35.jpg)
-![4-37](https://user-images.githubusercontent.com/57528373/77206969-85f3c300-6af8-11ea-93cb-d3dd5689cc07.jpg)
-The next step was to implement the image retrieval from the 3D environment. Each time you select an element such as “floor” you get all the images related in position and rotation to that geometry.  
+The next step was to implement the image retrieval from the 3D environment. Each time you select an element such as “floor” you get all the images related in position and rotation to that geometry.
+![4-37](https://user-images.githubusercontent.com/57528373/77206969-85f3c300-6af8-11ea-93cb-d3dd5689cc07.jpg)  
 ![4-38](https://user-images.githubusercontent.com/57528373/77206975-87bd8680-6af8-11ea-929e-6b68a57f8455.jpg)
 ![4-42](https://user-images.githubusercontent.com/57528373/77206985-89874a00-6af8-11ea-89d0-6039f2d783bc.jpg)
 
