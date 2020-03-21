@@ -22,7 +22,7 @@ Concrete, masonry, timber and steel are 4 materials that we focus on this projec
 ### BUILDING INSPECTION
 In order to digitalise the process of creating a material dataset the first step is to perform a manual flight to capture images from the demolition site. The drone we are using is a parrot bebop2 so we are using the corresponding library to control the drone via ROS.
 ![4-16](https://user-images.githubusercontent.com/57528373/77206912-66f53100-6af8-11ea-84f7-2c040788414d.jpg)
-
+[![Alternate Text]({image-url})]({https://www.youtube.com/watch?v=byZlO2EPLM8&feature=emb_title} "Manual Flight")
 ### SORTING
 ![Group_4_Digitalizing Material_Correction-30](https://user-images.githubusercontent.com/57528373/77207331-6741fc00-6af9-11ea-8f18-e5db2ab1b952.jpg)
 Image classifier systems must start with a set of input images from which to learn the features used for classification. For each of our categories, we supply both a collection of close-up and un-angled images to give information about texture, and in-situ images to describe the shapes the forms we expect the material to take (e.g. walls, columns, beams, etc).
@@ -49,6 +49,8 @@ The next step was to implement the image retrieval from the 3D environment. Each
 ![4-37](https://user-images.githubusercontent.com/57528373/77206969-85f3c300-6af8-11ea-93cb-d3dd5689cc07.jpg)  
 ![4-38](https://user-images.githubusercontent.com/57528373/77206975-87bd8680-6af8-11ea-929e-6b68a57f8455.jpg)
 ![4-42](https://user-images.githubusercontent.com/57528373/77206985-89874a00-6af8-11ea-89d0-6039f2d783bc.jpg)
+
+[![Alternate Text]({image-url})]({https://www.youtube.com/watch?v=byZlO2EPLM8&feature=emb_title} "Manual Flight")
 
 Digitalizing Material Collation from Pre-Demolition Sites is a project of IaaC, Institute for Advanced Architecture of Catalonia developed in the Masters of Robotics and Advanced Construction in 2019/20 by: Students: Anna Batallé, Irem Yagmur Cebeci, Matthew Gordon, Roberto Vargas Faculty: Angel Munoz, Soroush Garivani
 
