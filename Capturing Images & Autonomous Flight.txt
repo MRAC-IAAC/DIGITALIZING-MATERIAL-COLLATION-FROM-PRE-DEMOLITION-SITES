@@ -1,0 +1,71 @@
+﻿DRONE FLIGHT + CAPTURE IMAGES
+In order to digitalise the process of creating a material dataset the first step is to perform a manual flight to capture images from the demolition site. The drone we are using is a parrot bebop2 so we are using the corresponding library to control the drone via ROS.
+1. Install Bebop packages
+https://bebop-autonomy.readthedocs.io/en/latest/installation.html
+
+
+1. Place DRONE in the initial position
+2. Connect to Bebop2Power Wi-Fi Network
+3. Terminal 1. To start Drone via ROS
+
+
+$ locate libarcommands.so
+        answer: /opt/ros/melodic/lib/parrot_arsdk/libarcommands.so
+$ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/ros/melodic/lib/parrot_arsdk/
+
+
+$ roslaunch bebop_driver bebop_node.launch
+(It will give errors if its not connected to the drone)
+
+
+4. Terminal 2. To use the Joystick Controller
+* cd iaac_eurecat_ws/src/bebop_autonomy/ bebop_tools/config
+$ roslaunch bebop_tools joy_teleop.launch
+
+
+6. Terminal 3. Drone camera
+$ rosrun image_view image_view image:=/bebop/image_raw
+
+
+7. Terminal 4. To save images
+$ cd Documents/ (name of the folder where we want to save the documents) 
+$ rosrun image_view image_saver image:=/bebop/image_raw.
+
+
+* Control + C > cancel  (when the operation is finished
+
+
+Once the first material recognition has been done a second flight might be necessary in order to collect more information about a specific material or improve the coverge of the first inspection. This seconnd flight is done with autonomus navigation. The target points are taken from the photogrametry reconstruction and they are placed in the python file way_points_yaw.py. Depending on the athosferic conditions some adjustments are need to be done in the file python bebop_position_controller_yaw_pid.py to improve the path of the drone.
+
+
+DRONE AUTONOMOUS FLIGHT
+
+
+1. Place the DRONE in the initial position
+2. Connect to Bebop2Power Wi-Fi Network
+3. Terminal 1. To start Drone via ROS
+$ iaac_eurecat_ws/
+$ locate libarcommands.so
+        answer: /opt/ros/melodic/lib/parrot_arsdk/libarcommands.so
+$ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/ros/melodic/lib/parrot_arsdk/
+
+
+* go inside cd + iaac_eurecat_ws/src/bebop_autonomy/ bebop_driver/launch
+$ roslaunch bebop_driver bebop_node.launch
+(It will give errors if its not connected to the drone)
+
+
+4. Terminal 2. To start Drone via ROS
+go inside iaac_eurecat_ws /src/bebop_autonomy/scripts
+$ python bebop_position_controller_yaw_pid.py
+Use the keyboard for movement
+* to imput the points modify the way points yaw-py
+* see both files inside the folder drone controllers and place them inside src/ bebeop_autonomy/ scripts.
+
+
+Keyboard:
+S= Stop and go to zero
+L= Land
+N= Navigation mode
+T= Take off
+* make sure to reset the terminals before starting again. And have the finger in L in case the drone doesn't behave as spectated.
