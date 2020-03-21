@@ -20,6 +20,7 @@ Concrete, masonry, timber and steel are 4 materials that we focus on this projec
 ### HARDWARE
 ![4-14](https://user-images.githubusercontent.com/57528373/77206911-65c40400-6af8-11ea-8701-71ec6f27e8ed.jpg)
 ### BUILDING INSPECTION
+In order to digitalise the process of creating a material dataset the first step is to perform a manual flight to capture images from the demolition site. The drone we are using is a parrot bebop2 so we are using the corresponding library to control the drone via ROS.
 ![4-16](https://user-images.githubusercontent.com/57528373/77206912-66f53100-6af8-11ea-84f7-2c040788414d.jpg)
 
 ### SORTING
