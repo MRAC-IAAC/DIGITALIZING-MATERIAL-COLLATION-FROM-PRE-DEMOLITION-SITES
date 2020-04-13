@@ -3,9 +3,11 @@
 
 This entry explains the method used to digitized a Pre-Demolition Site in order to create a more reliable material report of the resources available in old buildings. The report is done using images captured with a bebop 2.0.
 * http://www.iaacblog.com/programs/digitalizing-material-collation-pre-demolition-sites/
+
 In this project we perform a building inspection with a manual flight, we then process the collected information and do second flight if more data is needed. For the second flight we use way points and the controller developed in the following repository:
 * https://github.com/MRAC-IAAC/bebop_control
-In this repository we also explain how to get the points of interest for the mission planner in the second flight of this project. The potential areas of interest are those that we couldn’t determine the material (white area).
+
+This repository also explains how to get the points of interest for the mission planner in the second flight of this project. The potential areas of interest are those that we couldn’t determine the material (white area).
 
 **Area of interest**
 ![Select Area](./doc/Select_Area_2.jpg)
@@ -15,14 +17,13 @@ In this repository we also explain how to get the points of interest for the mis
 
 #### Requierements
 
-To download the Rhino file click [HERE](https://drive.google.com/drive/folders/1oU48m0Eazm6iBU8ubfr_FgoaLeqjJuxY?usp=sharing)
-
 * ROS Indigo, Jade or Kinetic
 * Basic familiarity with building ROS packages
 * Parrot Bebop 2.0
 
 * **Rhinoceros 6**
 
+To download the Rhino file click [HERE](https://drive.google.com/drive/folders/1oU48m0Eazm6iBU8ubfr_FgoaLeqjJuxY?usp=sharing)
 Grasshopper Plugins:
 
 * [FroGH](http://www.co-de-it.com/wordpress/frogh.html)
@@ -36,8 +37,9 @@ Grasshopper Plugins:
 
 #### Getting Started:
 
-Install [bebop_autonomy]( https://bebop-autonomy.readthedocs.io/en/latest/installation.html) package inside your conventional ROS catkin workspace. Make sure to compile them once the installation has finished ($ catkin_make)
-For the points detection we make use of the images and colors stablished in this technology implementation:
+Install [bebop_autonomy]( https://bebop-autonomy.readthedocs.io/en/latest/installation.html) package inside your conventional ROS catkin workspace and make sure to compile them once the installation has finished ($ catkin_make).
+
+For the point detection we make use of the images and colors established in this technology implementation:
 
 * https://github.com/MRAC-IAAC/material_localization
 
@@ -91,15 +93,14 @@ $ python bebop_position_controller_yaw_pid.py
 Use the keyboard for movement
 ```
 Keyboard:
-S= Stop and go to zero
-L= Land
-N= Navigation mode
-T= Take off
+S= Stop and go to zero; L= Land ; N= Navigation mode; T= Take off
 
 Make sure to reset the terminals before starting a new flight.
-For precaution have the finger in L in case the drone doesn't behave as spectated.
 
-To imput the way points the file to be modify is the way points yaw-py
+For precaution place the finger in L, in case the drone doesn't behave as spectated press it immediately.
+
+In order to imput the way points, the file that needs to be modify is the way points yaw-py.
+
 
 GETTING THE WAY POINTS
 
