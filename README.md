@@ -1,6 +1,7 @@
 # DIGITALIZING-MATERIAL-COLLATION-FROM-PRE-DEMOLITION-SITES // Software II
 ### Project Description
 
+Write introduction of the Project
 This entry explains the method used to get points of interest for the mission planner in the second flight of this project:
 * http://www.iaacblog.com/programs/digitalizing-material-collation-pre-demolition-sites/
 
