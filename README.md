@@ -1,13 +1,13 @@
 # DIGITALIZING-MATERIAL-COLLATION-FROM-PRE-DEMOLITION-SITES // Software II
 ### Project Description
 
-This entry explains the method used to digitized a Pre-Demolition Site in order to create a more reliable material report of the resources available in old buildings. The report is done using images captured with a bebop 2.0.
+This entry explains the method used to digitized a Pre-Demolition Site to create a more reliable material report of the resources available in old buildings. The report is done using images captured with a bebop 2.0.
 * http://www.iaacblog.com/programs/digitalizing-material-collation-pre-demolition-sites/
 
-In this project we perform a building inspection with a manual flight, we then process the collected information and do second flight if more data is needed. For the second flight we use way points and the controller developed in the following repository:
+In this project we perform a building inspection with a manual flight, we then process the collected information and do a second flight if more data is needed. For the second flight we use way points and the controller developed in the following repository:
 * https://github.com/MRAC-IAAC/bebop_control
 
-This repository also explains how to get the points of interest for the mission planner in the second flight of this project. The potential areas of interest are those that we couldn’t determine the material (white area).
+This repository explains how to operate the manual and autonomus flight, and the steps to get the points of interest for the mission planner needed in the second flight. The potential areas of interest are those that we couldn’t determine the material (white area).
 
 **Area of interest**
 ![Select Area](./doc/Select_Area_2.jpg)
@@ -24,6 +24,7 @@ This repository also explains how to get the points of interest for the mission 
 * **Rhinoceros 6**
 
 To download the Rhino file click [HERE](https://drive.google.com/drive/folders/1oU48m0Eazm6iBU8ubfr_FgoaLeqjJuxY?usp=sharing)
+
 Grasshopper Plugins:
 
 * [FroGH](http://www.co-de-it.com/wordpress/frogh.html)
